@@ -10,4 +10,4 @@
 | **Khả năng sử dụng**           | Sử dụng khi lớp cần sắp xếp có một cách sắp xếp tự nhiên duy nhất (vd: `String`, `Integer`).    | Sử dụng khi có nhiều cách sắp xếp khác nhau hoặc khi cần một cách sắp xếp cụ thể khác với cách sắp xếp tự nhiên.|
 
 
-![Uploading image.png…]()
+![image](https://github.com/nang2002hv/Ontap/assets/101803106/3b7982c7-c105-4465-acfa-4f34585df1ea)
